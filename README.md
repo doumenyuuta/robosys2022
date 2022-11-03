@@ -5,7 +5,7 @@
 * © 2022 Domen Yuta
 
 # plusコマンド
-![plus](https://github.com/yutadomen/robosys2022/blob/main/plus)
+([![test](https://github.com/yutadomen/robosys2022/actions/workflows/test.yml/badge.svg)](https://github.com/yutadomen/robosys2022/actions/workflows/test.yml)
 標準入力から読み込んだ数字を足す。
 
 （ここに前のページの項目をいろいろ書く）
