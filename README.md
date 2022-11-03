@@ -6,6 +6,7 @@
 
 # plusコマンド
 [![test](https://github.com/yutadomen/robosys2022/actions/workflows/test.yml/badge.svg)](https://github.com/yutadomen/robosys2022/actions/workflows/test.yml)
+
 標準入力から読み込んだ数字を足す。
 
 （ここに前のページの項目をいろいろ書く）
