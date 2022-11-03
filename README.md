@@ -5,7 +5,7 @@
 * © 2022 Domen Yuta
 
 # plusコマンド
-![test](https://github.com/yutadomen/robosys2022/blob/main/plus)
+![plus](https://github.com/yutadomen/robosys2022/blob/main/plus)
 標準入力から読み込んだ数字を足す。
 
 （ここに前のページの項目をいろいろ書く）
@@ -18,4 +18,3 @@
 * Ubuntu
 
 ⓒ 2022 Yuta Domen
-
