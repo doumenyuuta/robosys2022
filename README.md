@@ -7,7 +7,12 @@
 # plusコマンド
 [![test](https://github.com/yutadomen/robosys2022/actions/workflows/test.yml/badge.svg)](https://github.com/yutadomen/robosys2022/actions/workflows/test.yml)
 
-標準入力から読み込んだ数字を足す。
+標準入力からseqコマンドを用いて読み込んだ数字を足す。
+ただし、標準入力をする時に用いる数字は正の整数のみでないと正常に出力しない
+
+## テスト
+seq 5 | ./plusと標準入力で期待される出力15と終了ステータスの変数$?を利用する
+
 
 （ここに前のページの項目をいろいろ書く）
 
