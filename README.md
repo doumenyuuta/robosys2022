@@ -4,7 +4,7 @@
 ロボットシステム学の練習リポジトリ
 
 # plusコマンド
-<<<<<<< HEAD
+
 [![test](https://github.com/yutadomen/robosys2022/actions/workflows/test.yml/badge.svg)](https://github.com/yutadomen/robosys2022/actions/workflows/test.yml)
 
 標準入力からseqコマンドを用いて読み込んだ連続した数字を足す。
