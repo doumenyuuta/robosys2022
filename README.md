@@ -16,6 +16,7 @@ $ git clone git@github.com:yutadomen/robosys2022.git
 また有限小数を標準入力する際は小数が切り捨てされた数字が実行される。(実行例3)
 
 ### 実行例
+##### 基本
 標準入力
 ```
 seq 5 | ./plus
